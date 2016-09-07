@@ -1,4 +1,6 @@
 # HelloGit
 
-This is just a start!
+what is HelloGit?
+
+A Amazing project in the web or websit or world!
 
